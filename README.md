@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="ch.jpg?raw=true">
+</p>
+
+
 # Wordpress-Theme-Customiser
 
 

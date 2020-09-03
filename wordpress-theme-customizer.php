@@ -3,7 +3,7 @@
 Plugin Name:  Codehvaeli Theme Customizer 
 Plugin URI:   https://github.com/codehaveli/wordpress-theme-customizer
 Description:  Theme Customizer for Custom function,css,js
-Version:      1.0
+Version:      1.1.1
 Author:       Codehaveli
 Author URI:   https://wwwcodehaveli.com/
 License:      GPL2

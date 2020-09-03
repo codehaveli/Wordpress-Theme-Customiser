@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name:  CH Theme Customizer 
-Plugin URI:   https://codehaveli.com/
-Description:  Theme Customizer for Custom function and Csss
+Plugin Name:  Codehvaeli Theme Customizer 
+Plugin URI:   https://github.com/codehaveli/wordpress-theme-customizer
+Description:  Theme Customizer for Custom function,css,js
 Version:      1.0
-Author:       Code Haveli
-Author URI:   https://codehaveli.com/
+Author:       Codehaveli
+Author URI:   https://wwwcodehaveli.com/
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  ch-theme-customizer
@@ -18,7 +18,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 define( 'CH_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );   // returns like /home/user/site/
-
 define( 'CH_PLUGIN_URL', plugin_dir_url( __FILE__ ) );	//	returns like https://example.com/wp-content/yourplugin/
 
 

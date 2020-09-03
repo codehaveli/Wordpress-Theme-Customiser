@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="codehaveli-squar-logo-1024.jpg?raw=true">
+  <img src="codehaveli-squar-logo-1024.jpg?raw=true" width="300">
 </p>
 
 
